@@ -5,7 +5,7 @@ let myProfile = {
 /* Name */
 name: "Jesus Madero",
 /* Photo with attributes */
-photo:"/images/profile.jpeg",
+photo:"images/profile.jpeg",
 
 /* Favorite Foods List*/
 favoriteFoods: [
