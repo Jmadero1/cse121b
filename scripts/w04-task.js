@@ -2,9 +2,6 @@
 
 /* Profile Object  */
 let myProfile = {
-
-/* Populate Profile Object with placesLive objects */
-
 /* Name */
 name: "Jesus Madero",
 /* Photo with attributes */
@@ -48,6 +45,7 @@ myProfile.placesLived.push({
 
 
 /* DOM Manipulation - Output */
+document.querySelector("#name").textContent = myProfile.name;
 document.getElementById("photo").src = myProfile.photo;
 
 // Assign the value of the name property as the alt attribute of the HTML <img> with an ID of photo
