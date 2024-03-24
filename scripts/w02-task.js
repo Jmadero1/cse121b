@@ -8,7 +8,7 @@ const fullName ="Jesus Madero";
 const currentYear = new Date().getFullYear();
 
 
-const profilePicture = "/images/profile.jpeg"; 
+const profilePicture = "images/profile.jpeg"; 
 
 
 
